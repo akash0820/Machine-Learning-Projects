@@ -63,12 +63,12 @@ Recommendation: Explore additional techniques like SMOTE or weighted models.
 
 ## How to Use
 
-Prerequisites
+### Prerequisites
 Python 3.7+ with the following libraries:
 pandas, numpy, scikit-learn, matplotlib, seaborn.
 
 ## Directory Structure
-
+```
 ├── data/
 │   ├── Streaming.csv                  # Raw dataset
 ├── notebooks/
@@ -77,7 +77,7 @@ pandas, numpy, scikit-learn, matplotlib, seaborn.
 │   ├── Streaming-final.pptx           # Presentation 
 │   ├── Final Report- ML-Group10.pdf   # Report
 ├── README.md                          # Project README
-
+```
 ## Future Work
 
 Incorporate time-series analysis for customer engagement trends.
