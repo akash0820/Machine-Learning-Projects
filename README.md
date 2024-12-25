@@ -69,14 +69,12 @@ pandas, numpy, scikit-learn, matplotlib, seaborn.
 
 ## Directory Structure
 ```
-├── data/
+├── Streaming-Data-Project/
 │   ├── Streaming.csv                  # Raw dataset
-├── notebooks/
 │   ├── Streaming.ipynb                # Python Code
-├── Documents/
 │   ├── Streaming-final.pptx           # Presentation 
 │   ├── Final Report- ML-Group10.pdf   # Report
-├── README.md                          # Project README
+│   ├──  README.md                     # Project README
 ```
 ## Future Work
 
